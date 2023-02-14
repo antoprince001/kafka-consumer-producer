@@ -23,3 +23,4 @@ Spring Boot Producer1 sends a log message and the python Consumer2 subscribes to
 
 Python Producer2 uses Faker module to generate fake data and publish it to 'users' topic. Consumer1 defined in Spring Boot listens to the 'users' topic and consumes the data.
 
+![Project Architecture](https://github.com/antoprince001/kakfa-consumer-producer/blob/main/Architecture.png)
