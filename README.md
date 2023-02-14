@@ -17,6 +17,7 @@ docker-compose down
 ## Project implementation
 
 Spring Boot - Producer1 , Consumer1
+
 Python      - Producer2 , Consumer2
 
 Spring Boot Producer1 sends a log message and the python Consumer2 subscribes to that topic and listens to it.
