@@ -1,4 +1,4 @@
-# kakfa-consumer-producer
+# kafka-consumer-producer
 Apache Kafka consumers and producers developed using python and spring boot as a learning exercise
 
 ## Apache Kafka Setup 
